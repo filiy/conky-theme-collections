@@ -16,8 +16,8 @@ case $rand in  #BEGIN CASE
         8) quote="How many mondays have been and gone since you said 'i will start next week'? Take action, start today.";;
         9) quote="Discipline is doing what needs to be done even though you don't want to.";;
         10) quote="If you are unwilling to risk the unusual, you will have to settle for the ordinary.";;
-	       11) quote="What I'm NOT going to do today?";;
-	       12) quote="If I live every day the same way I did what kind of future would that create?";;
+	11) quote="What I'm NOT going to do today?";;
+        12) quote="If I live every day the same way I did what kind of future would that create?";;
 
 esac  # END CASE
  
